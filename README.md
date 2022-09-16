@@ -1,7 +1,7 @@
-![](https://img.shields.io/badge/GoogleClone-blueviolet)
+![](https://img.shields.io/badge/DiceGame-blueviolet)
 
-# Google_clone
-It's static google clone built with HTML, CSS
+# Dice Game
+It's a dice game built in HTML5, CSS & javaScript
 
 ![screenshot](dicegame-preview.png)
 
